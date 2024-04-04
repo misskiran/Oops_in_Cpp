@@ -1,0 +1,24 @@
+     POLYMORPHISM
+   
+   - Ability of Objects/Methods to take different forms.
+   - For eg. Right - It has two meanings : right / wrong wala
+     Ya fir Right / Left
+
+   - Similarly Objects and Methods ko different tarike se we define 
+     Kaunsa form use krna h that we see during 
+     RUNTIME OR COMPILE TIME hence , Two types of Polymorphism.
+
+     FUNCTION OVERLOADING 
+    - We define a number of functions with some function name. They perform differently 
+      according to the arguments passed ( How many arg passed or type od arg)
+    - 
+
+
+
+
+
+
+
+
+
+*/
